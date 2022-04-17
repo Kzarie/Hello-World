@@ -11,3 +11,7 @@ I've taken some programming courses in university, but otherwise, I don't have m
 - building gunpla (Gundam plastic models)
 - anime (specifically, I like the artstyle)
 - learning Russian
+
+# Future aspirations
+I hope I can become a web developer first and then branch off into other computer science-related fields in the future.
+I wonder if web developer demand is still high.
