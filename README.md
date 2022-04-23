@@ -13,5 +13,4 @@ I've taken some programming courses in university, but otherwise, I don't have m
 - learning Russian
 
 # Future aspirations
-I hope I can become a web developer first and then branch off into other computer science-related fields in the future.
-I wonder if web developer demand is still high.
+I hope I can either get a web developer or IT job.
